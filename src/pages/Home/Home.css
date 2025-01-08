@@ -1,0 +1,8 @@
+.mainPhoto {
+  background-image: url('https://res.cloudinary.com/dhxdgkspl/image/upload/v1736338462/Portfolio/pojiukkqg7zhucw27wlz.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 18rem;
+  width: 18rem;
+  border-radius: 100%;
+}
