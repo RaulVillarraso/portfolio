@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "About Me",
+    "subtitle": "This who I am, my interests and attributes"
+  },
+  {
+    "id": 2,
+    "title": "Projects",
+    "subtitle": "See some projects I've worked on"
+  },
+  {
+    "id": 3,
+    "title": "Curriculum",
+    "subtitle": "Download my curriculum directly"
+  },
+  {
+    "id": 4,
+    "title": "Contact Me",
+    "subtitle": "Contact me if you're interested on my professional profile"
+  }
+]

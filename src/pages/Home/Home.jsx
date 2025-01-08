@@ -1,10 +1,13 @@
 import './Home.css'
-import Section from '../../components/Section/Section'
+import SectionsHud from '../../components/SectionsHud/SectionsHud'
+
 
 function Home() {
   return (
-    /* <div className="mainPhoto"></div> */
-    <Section />
+    <div className="mainHome">
+      <div className="mainPhoto"></div>
+      <SectionsHud />
+    </div>
   )
 }
 
